@@ -89,8 +89,9 @@ The equation representing the best-fit line for predicting bike demand (cnt) is:
 
 
 ## Acknowledgements
-- This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by [Akashdeep Makkar](https://www.linkedin.com/in/akashdeep-makkar-12110880/)
-- UpGrad tutorials on Linear Regression on the learning platform
+- This project was inspired by an upGrad live session on the industry relevance of linear regression models, conducted by [Akashdeep Makkar](https://www.linkedin.com/in/akashdeep-makkar-12110880/)
+- Theoretical live sessions on Machine Learning and Linear Regression, conducted by IIIT-B Professor Raghuram Bharadwaj.
+- UpGrad tutorials on Linear Regression available on the learning platform.
 
 
 ## Contact
