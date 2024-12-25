@@ -77,21 +77,21 @@ The equation representing the best-fit line for predicting bike demand (cnt) is:
 
 - Key features, such as **'year (yr)'**, **'workingday'**, **'temperature (temp)'**, and seasonal factors like **'winter'** and **'spring'**, are important drivers of bike demand. The relatively high coefficient values for **'temp'** and **'yr'** indicate their significant impact on demand predictions.
 
-- Overall, the model exhibits a strong fit, with minimal variance in performance between training and testing, suggesting that it is well-equipped to predict bike demand with reliable accuracy.
-
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- [Python](https://www.python.org/) - version: 3.12.4
+- [NumPy](https://numpy.org/) - version: 1.26.4
+- [Pandas](https://pandas.pydata.org/) - version: 2.2.2
+- [Matplotlib](https://matplotlib.org/) - version: 3.8.4
+- [Seaborn](https://seaborn.pydata.org/) - version: 0.13.2
+- [Statsmodels](https://www.statsmodels.org/stable/index.html) - version: 0.14.2
+- [Scikit-Learn](https://scikit-learn.org/stable/) - version: 1.4.2
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by [Akashdeep Makkar](https://www.linkedin.com/in/akashdeep-makkar-12110880/)
+- UpGrad tutorials on Linear Regression on the learning platform
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ShreyasMSDev](https://github.com/ShreyasMSDev) - feel free to contact me!
